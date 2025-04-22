@@ -53,3 +53,21 @@ autologparser  logs  main.py  README.md  reports  requirements.txt
 abdel@abdel-XPS-13-7390:~/AutoLogParser$ 
 
 ```
+organisation du projet à ce stade là: 
+``` abdel@abdel-XPS-13-7390:~/AutoLogParser$ tree
+.
+├── autologparser
+│   ├── __init__.py
+│   ├── parser.py
+│   └── report.py
+├── logs
+│   └── test_log.txt
+├── main.py
+├── README.md
+├── reports
+└── requirements.txt
+
+3 directories, 7 files
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ 
+
+```
