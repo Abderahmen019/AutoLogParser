@@ -20,7 +20,8 @@ Dans ton terminal :
 ```git clone https://github.com/Abderahmen019/AutoLogParser.git```
 voila le resultat de la commande: 
 
-``` abdel@abdel-XPS-13-7390:~$ ls
+```
+abdel@abdel-XPS-13-7390:~$ ls
 Desktop    Downloads  Music     Public  Templates  yocto-lab
 Documents  Kyma       Pictures  snap    Videos
 abdel@abdel-XPS-13-7390:~$ git clone https://github.com/Abderahmen019/AutoLogParser.git
@@ -33,4 +34,5 @@ Unpacking objects: 100% (4/4), 2.39 KiB | 816.00 KiB/s, done.
 abdel@abdel-XPS-13-7390:~$ ls
 AutoLogParser  Documents  Kyma   Pictures  snap       Videos
 Desktop        Downloads  Music  Public    Templates  yocto-lab
-abdel@abdel-XPS-13-7390:~$ ```
+abdel@abdel-XPS-13-7390:~$
+```
