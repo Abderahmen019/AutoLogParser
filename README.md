@@ -36,3 +36,20 @@ AutoLogParser  Documents  Kyma   Pictures  snap       Videos
 Desktop        Downloads  Music  Public    Templates  yocto-lab
 abdel@abdel-XPS-13-7390:~$
 ```
+2.2 Etape 2 ok:
+```abdel@abdel-XPS-13-7390:~$ cd AutoLogParser/
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ ls
+README.md
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ cat README.md 
+# AutoLogParserabdel@abdel-XPS-13-7390:~/AutoLogParser$ mkdir autologparser logs reports
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ ls
+autologparser  logs  README.md  reports
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ touch main.py requirements.txt
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ touch logs/test_log.txt
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ touch autologparser/__init__.py autologparser/parser.py autologparser/report.py
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ 
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ ls
+autologparser  logs  main.py  README.md  reports  requirements.txt
+abdel@abdel-XPS-13-7390:~/AutoLogParser$ 
+
+```
