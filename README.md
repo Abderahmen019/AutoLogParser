@@ -18,3 +18,19 @@
 Dans ton terminal :
 
 ```git clone https://github.com/Abderahmen019/AutoLogParser.git```
+voila le resultat de la commande: 
+
+``` abdel@abdel-XPS-13-7390:~$ ls
+Desktop    Downloads  Music     Public  Templates  yocto-lab
+Documents  Kyma       Pictures  snap    Videos
+abdel@abdel-XPS-13-7390:~$ git clone https://github.com/Abderahmen019/AutoLogParser.git
+Cloning into 'AutoLogParser'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Unpacking objects: 100% (4/4), 2.39 KiB | 816.00 KiB/s, done.
+abdel@abdel-XPS-13-7390:~$ ls
+AutoLogParser  Documents  Kyma   Pictures  snap       Videos
+Desktop        Downloads  Music  Public    Templates  yocto-lab
+abdel@abdel-XPS-13-7390:~$ ```
