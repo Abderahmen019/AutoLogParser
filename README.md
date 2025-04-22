@@ -16,4 +16,5 @@
 🧱 Étape 2 – Cloner ton dépôt et structurer ton projet
 
 Dans ton terminal :
-"""  git clone https://github.com/Abderahmen019/AutoLogParser.git """
+'''
+git clone https://github.com/Abderahmen019/AutoLogParser.git'''
